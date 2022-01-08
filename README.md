@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @codevatsa
 - 🌱 I’m currently learning [Go](https://go.dev/)
+- 💻 I work on vue,ts,py and go
