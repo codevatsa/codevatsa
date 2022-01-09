@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @codevatsa
+- 👋 Hi, I’m Pranav Srivatsa
 - 🌱 I’m currently learning [Go](https://go.dev/)
 - 💻 I work on vue,ts,py and go
